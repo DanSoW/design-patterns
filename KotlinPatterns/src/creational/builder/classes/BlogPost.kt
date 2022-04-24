@@ -1,4 +1,4 @@
-package generative.builder.classes
+package creational.builder.classes
 
 class BlogPost {
     var title: String = ""

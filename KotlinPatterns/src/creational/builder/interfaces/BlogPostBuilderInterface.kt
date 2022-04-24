@@ -1,6 +1,6 @@
-package generative.builder.interfaces
+package creational.builder.interfaces
 
-import generative.builder.classes.BlogPost
+import creational.builder.classes.BlogPost
 
 interface BlogPostBuilderInterface {
     // Create

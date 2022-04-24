@@ -1,7 +1,7 @@
-package generative.builder
+package creational.builder
 
-import generative.builder.classes.BlogPost
-import generative.builder.interfaces.BlogPostBuilderInterface
+import creational.builder.classes.BlogPost
+import creational.builder.interfaces.BlogPostBuilderInterface
 
 class BlogPostManager {
     private lateinit var builder: BlogPostBuilderInterface
